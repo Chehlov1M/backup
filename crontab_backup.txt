@@ -1,0 +1,2 @@
+0 2 * * * /home/web-e/backup_script.sh
+
